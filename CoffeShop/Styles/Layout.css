@@ -1,6 +1,37 @@
 ﻿.logo {
     width: 100%;
     height: 800px;
-    background: url('img/coffee_break.jpg') no-repeat center center;
+    background: url('/img/coffee_break.jpg') no-repeat center center;
     background-size: cover;
+}
+
+.logosmall {
+    width: 25%;
+    height: 250px;
+    background: url('/img/coffe-small.jpg');
+    background-position: center center;
+}
+
+.img-container {
+    text-align: center;
+}
+
+#footDesign {
+    background-color: #c2b49a;
+}
+
+.navbar-custom {
+    background-color: #c2b49a;
+}
+
+.footer-custom {
+    background-color: #c2b49a;
+}
+
+.gap100 {
+    padding: 60px 0px;
+}
+
+.gapTop{
+    padding-top: 60px;
 }

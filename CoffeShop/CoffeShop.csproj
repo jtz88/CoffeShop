@@ -76,8 +76,16 @@
     <Content Include="Content\bootstrap-reboot.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="img\ceo.jpg" />
+    <Content Include="img\coffe-small.jpg" />
     <Content Include="img\coffee_break.jpg" />
+    <Content Include="img\coffe_machine.jpg" />
+    <Content Include="img\coffe_machine2.jpg" />
+    <Content Include="img\coffe_machine3.jpg" />
+    <Content Include="img\coffe_machine4.jpg" />
+    <Content Include="img\hrboss.jpg" />
     <Content Include="Index.html" />
+    <Content Include="myScripts\jscripts.js" />
     <Content Include="Products.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
